@@ -13,7 +13,7 @@ June 01, 2023
 
 ## Our Commitment to Privacy
 
-Thank you for using LinkVault ("the App"). We are committed to protecting your privacy and providing a secure user experience. This Privacy Policy outlines the types of information we collect, how we use and store it, and your rights regarding your data.
+Thank you for using DailyRetro ("the App"). We are committed to protecting your privacy and providing a secure user experience. This Privacy Policy outlines the types of information we collect, how we use and store it, and your rights regarding your data.
 
 ## Information We Collect
 
@@ -61,5 +61,5 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at linkvault.app@gmail.com.
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at dailyretro.app@gmail.com.
 
